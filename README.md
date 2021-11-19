@@ -1,6 +1,6 @@
 <div align="center">
-<img 
-src="https://s1.gifyu.com/images/New-Project-2631FFC.png" alt="img" width="550" height="100"/>
+<img
+src="kannappi.gif" alt="Gif" width="600" height="100"/>
 </p>
         <img 
 src="giphy.gif" alt="GIF" width="260" height="260"/>
